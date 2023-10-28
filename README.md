@@ -16,9 +16,7 @@
 
 
 ![Nahid404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahid 404&show_icons=true&theme=chartreuse-dark)
-
-<h3><b><i>🏆 Github Statistics :</i></b></h3>  
-
+  
 ![Nahid404 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahid404&theme=radical)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
