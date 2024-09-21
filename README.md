@@ -15,7 +15,7 @@ INDIA CYBER SECURITY FORCE
 
 <a href="https://github.com/Nahid-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=NAHID-404-CYBER&theme=monokai"></a>
 
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/LadinSk)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -29,8 +29,8 @@ INDIA CYBER SECURITY FORCE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/ladin-sk-327203265) mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://github.com/LadinSk/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
