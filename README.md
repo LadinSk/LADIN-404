@@ -28,7 +28,7 @@
 <a href="https://github.com/LadinSk/LADIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
 
 
-![LadinSk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriyan404&show_icons=true&theme=chartreuse-dark)  
+![LadinSk's GitHub stats](https://github-readme-stats.vercel.app/api?username=LADINSK&show_icons=true&theme=chartreuse-dark)  
 
 ![LadinSk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ladinsk&theme=radical)
 
