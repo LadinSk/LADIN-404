@@ -1,3 +1,5 @@
+<h3 align="center">𝗜 𝗟𝗢𝗩𝗘 𝗠𝗬 𝗜𝗡𝗗𝗜𝗔❤️ 𝗜𝗖𝗦𝗙 𝗧𝗘𝗔𝗠
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐋𝐀𝐃𝐈𝐍+𝐈𝐂𝐒𝐅+𝐂𝐄𝐎;MY+LOVE+ALLHA;KING+OFF+SEX%3A)+BRAND;FUCK+U+BBY;It'+Ladin+BRAND" alt="Typing SVG" /></a>
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN INDIA-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
@@ -33,8 +35,11 @@
 ![LadinSk GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ladinsk&theme=radical)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<a href="https://github.com/LadinSk/LADIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
+
  
-- 😏 𝐓𝐄𝐀𝐌:-𝐂𝐄𝐎-𝐋𝐀𝐃𝐈𝐍
+- 😏 𝐓𝐄𝐀𝐌:- 𝐂𝐄𝐎 - 𝐋𝐀𝐃𝐈𝐍
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -67,6 +72,8 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
 - 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [LADINSK](https://github.com/LadinSk)
+
+ <a href="https://github.com/LadinSk/LADIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
@@ -89,3 +96,5 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/a
+
+<a href="https://github.com/LadinSk/LADIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
