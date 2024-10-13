@@ -1,4 +1,6 @@
-<h3 align="center">𝗜 𝗟𝗢𝗩𝗘 𝗠𝗬 𝗜𝗡𝗗𝗜𝗔❤️ 𝗜𝗖𝗦𝗙 𝗧𝗘𝗔𝗠
+<h3 align="center"> 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐋𝐀𝐃𝐈𝐍+𝐆𝐈𝐓𝐇𝐔𝐁+𝐁𝐑𝐎🇳🇪)](https://github.com/LadinSk)
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=𝐋𝐀𝐃𝐈𝐍+𝐈𝐂𝐒𝐅+𝐂𝐄𝐎;MY+LOVE+ALLHA;KING+OFF+SEX%3A)+BRAND;FUCK+U+BBY;It'+Ladin+BRAND" alt="Typing SVG" /></a>
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN INDIA-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -13,7 +15,7 @@
 
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+PICCI-𐀵𗐵𚰵𘠵𖀵𖠵𙰫Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+ICSF+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+ICSF-TEAM+🥀;Today+I+Will+Tell+You+✊HACKED+YOUR+WEBSITE+FUCKYOU+🙏;THANKS+MY+All+FRIENDS+❤️;I+LOVE+MY+FROM+INDIA🇳🇪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+WEST+BANGLE-𐀵𗐵𚰵𘠵𖀵𖠵𙰫Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+ICSF+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+ICSF-TEAM+🥀;Today+I+Will+Tell+You+✊HACKED+YOUR+WEBSITE+FUCKYOU+🙏;THANKS+MY+All+FRIENDS+❤️;I+LOVE+MY+FROM+INDIA🇳🇪)](https://git.io/typing-svg)
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
 <a href="https://github.com/LadinSk/LADIN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ARIYAN-404-CYBER&theme=monokai"></a>
